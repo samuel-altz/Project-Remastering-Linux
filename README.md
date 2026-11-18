@@ -267,7 +267,7 @@ Hasilnya harus sama dengan isi `cawapres.md5`, yaitu `cce2524f2597aac6ac85244943
 
 ### 8.5 Alternatif
 
-Tautan unduhan ISO utuh: `[ISI: tautan Google Drive jika ada]`
+None
 
 ## 9. Kendala dan Solusi
 
@@ -301,7 +301,7 @@ Project-Remastering-Linux/
 
 Samuel Clement Tjahjono / samuel-altz
 
-**Video dokumentasi:** `[ISI: tautan YouTube]`
+**Video dokumentasi:** `https://youtu.be/XMm2BpwXsUg`
 
 ## 12. Lisensi
 
